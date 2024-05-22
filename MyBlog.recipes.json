@@ -1,0 +1,956 @@
+[{
+  "_id": {
+    "$oid": "65baca01adab7acd58d783da"
+  },
+  "title": "Cookies aux flocons d'avoine",
+  "image": {
+    "src": "1709116364094-pexels-sara-santos-1020585.jpg",
+    "alt": "pexels-sara-santos-1020585.jpg"
+  },
+  "description": "Cookies healthy aux flocons d'avoine  noix de coco, beurre de cacahuète",
+  "difficulty": "moyen",
+  "category": "Dessert",
+  "area": "-",
+  "author": "Basma",
+  "healthy": true,
+  "ingredients": [
+    {
+      "ingName": "œuf",
+      "quantity": 1,
+      "unit": "pièce",
+      "_id": {
+        "$oid": "65baca01adab7acd58d783db"
+      }
+    },
+    {
+      "ingName": "chocolat noir",
+      "quantity": 100,
+      "unit": "gr",
+      "_id": {
+        "$oid": "65baca01adab7acd58d783dc"
+      }
+    },
+    {
+      "ingName": "de beurre de cacahuètes maison",
+      "quantity": 4,
+      "unit": "cuillère à café",
+      "_id": {
+        "$oid": "65baca01adab7acd58d783dd"
+      }
+    },
+    {
+      "ingName": "sucre stevia",
+      "quantity": 100,
+      "unit": "gr",
+      "_id": {
+        "$oid": "65baca01adab7acd58d783de"
+      }
+    },
+    {
+      "ingName": "d' avoine réduit en farine au blender",
+      "quantity": 0.5,
+      "unit": "tasse",
+      "_id": {
+        "$oid": "65baca01adab7acd58d783df"
+      }
+    }
+  ],
+  "steps": "ÉTAPE 1\r\nPréchauffer le four à 170°C (thermostat 5-6)\r\n\r\nÉTAPE 2\r\n\r\nDans un bol, faire fondre le chocolat (au miro ondes ou bain marie) puis ajouter le beurre de cacahuète (si besoin ajouter 1 cuillère à café d'huile neutre) pour obtenir un mélange lisse.\r\n\r\nÉTAPE 3\r\n\r\nDans un bol, mélanger les éléments secs : l'avoine réduit en farine, la noix de coco râpée, et la levure et réserver.\r\n\r\nÉTAPE 4\r\n\r\nDans un saladier, battre l'oeuf avec le sucre et incorporer le mélange chocolat-beurre de cacahuètes. Ajouter au fur et à mesure le mélange sec et bien amalgamer.\r\n\r\nÉTAPE 5\r\nFaire des boules avec 1 cuillère à café (ou huiler ses mains pour confectionner les boules), aplatir légèrement et enfourner à four chaud (170°C) pendant 10 à 13 min.",
+  "time": 28,
+  "createdAt": {
+    "$date": "2024-01-31T22:30:25.501Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-28T10:32:44.099Z"
+  },
+  "__v": 0,
+  "nbrPerson": 6
+},
+{
+  "_id": {
+    "$oid": "65bb5bb402c7bb29a50c29dd"
+  },
+  "title": "soupe de lentille",
+  "image": {
+    "src": "1709154932277-soup-2006317_1280.jpg",
+    "alt": "soup-2006317_1280.jpg"
+  },
+  "description": "Soupe de lentille corail aux carottes",
+  "difficulty": "Facile",
+  "category": "Entrée",
+  "area": "Moyen orient",
+  "author": "Basma",
+  "healthy": true,
+  "ingredients": [
+    {
+      "ingName": "lentille corail",
+      "quantity": 120,
+      "unit": "gr",
+      "_id": {
+        "$oid": "65bc318ef5af2f9fb2834a4a"
+      }
+    },
+    {
+      "ingName": "carotte",
+      "quantity": 2,
+      "unit": "pièces",
+      "_id": {
+        "$oid": "65bc318ef5af2f9fb2834a4b"
+      }
+    },
+    {
+      "ingName": "ognion",
+      "quantity": 1,
+      "unit": "pièce",
+      "_id": {
+        "$oid": "65dfa08e553f696058e1fc77"
+      }
+    },
+    {
+      "ingName": "huile d'olive",
+      "quantity": 1,
+      "unit": "fil",
+      "_id": {
+        "$oid": "65dfa08e553f696058e1fc78"
+      }
+    },
+    {
+      "ingName": "sel et poivre",
+      "quantity": 0.5,
+      "unit": "cac",
+      "_id": {
+        "$oid": "65dfa08e553f696058e1fc79"
+      }
+    }
+  ],
+  "steps": "ÉTAPE 1\r\n\r\nMettre une casserole d'eau salée à bouillir.\r\n\r\nÉTAPE 2\r\n\r\nCouper les carottes en rondelles puis les mettre à chauffer quand l'eau est bouillante pour faire une précuisson.\r\n\r\nÉTAPE 3\r\n\r\nÉmincer les oignons et écraser l'ail, les faire revenir dans sauteuse avec de l'huile d'olive.\r\n\r\nÉTAPE 4\r\n\r\nRincer plusieurs fois les lentilles. Les ajouter dans la sauteuse, puis le curry. Égoutter et ajouter les carottes pour qu'elles finissent leur cuisson, ajouter la coriandre, le sel et le poivre.\r\n\r\nRecouvrir d'eau puis faites cuire environ 20 min à feu doux, en mélangeant de temps en autre.\r\n\r\nÉTAPE 7\r\n\r\nAu moment de servir, si vous voulez ajouter de 10 cl à 20 cl de lait de coco ou le laisser à disposition pour que chacun puisse doser selon son goût (plus ou moins sucré), il est aussi possible d'ajouter de la coriandre.\r\n",
+  "time": 30,
+  "createdAt": {
+    "$date": "2024-02-01T08:52:04.878Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-28T21:15:32.280Z"
+  },
+  "__v": 0,
+  "nbrPerson": 4
+},
+{
+  "_id": {
+    "$oid": "65bb841302c7bb29a50c3631"
+  },
+  "title": "Chapati",
+  "image": {
+    "src": "1709501934475-375748421_845394097374255_2048220458431048278_n.jpg",
+    "alt": "375748421_845394097374255_2048220458431048278_n.jpg"
+  },
+  "description": "Le chapati tunisien est un sandwich très populaire et apprécié par tous. Rien à voir avec le chapati indien. Très économique, Il se compose d’une galette de pain, farcie de fromage et d’harissa, d’omelette, de thon et de frites.",
+  "difficulty": "Moyen",
+  "category": "Plat",
+  "area": "Tunisie",
+  "author": "Basma",
+  "healthy": false,
+  "ingredients": [
+    {
+      "ingName": "farine",
+      "quantity": 500,
+      "unit": "gr",
+      "_id": {
+        "$oid": "65bb841302c7bb29a50c3632"
+      }
+    },
+    {
+      "ingName": "huile d'olive",
+      "quantity": 2,
+      "unit": "c. à soupe",
+      "_id": {
+        "$oid": "65e4edee7f85528b2876d5a4"
+      }
+    },
+    {
+      "ingName": "levure boulangère ",
+      "quantity": 1,
+      "unit": "sachet",
+      "_id": {
+        "$oid": "65e4edee7f85528b2876d5a5"
+      }
+    },
+    {
+      "ingName": "œuf",
+      "quantity": 8,
+      "unit": "pièces",
+      "_id": {
+        "$oid": "65e4edee7f85528b2876d5a6"
+      }
+    },
+    {
+      "ingName": "pomme de terre",
+      "quantity": 2,
+      "unit": "pièces",
+      "_id": {
+        "$oid": "65e4edee7f85528b2876d5a7"
+      }
+    },
+    {
+      "ingName": "portion de fromage fondu",
+      "quantity": 4,
+      "unit": "tranche",
+      "_id": {
+        "$oid": "65e4edee7f85528b2876d5a8"
+      }
+    },
+    {
+      "ingName": "harissa et thon",
+      "quantity": 1,
+      "unit": "quantité au choix",
+      "_id": {
+        "$oid": "65e4edee7f85528b2876d5a9"
+      }
+    },
+    {
+      "ingName": "oignon émincé ",
+      "quantity": 4,
+      "unit": "c. à soupe",
+      "_id": {
+        "$oid": "65e4edee7f85528b2876d5aa"
+      }
+    },
+    {
+      "ingName": "persil émincé ",
+      "quantity": 4,
+      "unit": "c. à soupe",
+      "_id": {
+        "$oid": "65e4edee7f85528b2876d5ab"
+      }
+    },
+    {
+      "ingName": "fromage râpé ",
+      "quantity": 100,
+      "unit": "gr",
+      "_id": {
+        "$oid": "65e4edee7f85528b2876d5ac"
+      }
+    },
+    {
+      "ingName": "huile pour friture ",
+      "quantity": 200,
+      "unit": "ml",
+      "_id": {
+        "$oid": "65e4edee7f85528b2876d5ad"
+      }
+    },
+    {
+      "ingName": "sel",
+      "quantity": 2,
+      "unit": "c. à café",
+      "_id": {
+        "$oid": "65e4edee7f85528b2876d5ae"
+      }
+    }
+  ],
+  "steps": " - Mélanger et pétrir la farine, avec la levure, l'huile, 2 cc de sel et assez d'eau pour obtenir une pâte bien souple et légèrement collante (plus elle sera souple, plus la galette sera moelleuse).\r\n - Diviser en 4 pâtons, et laisser lever dans un endroit chaud pendant 45-55 minutes environ.\r\n - Étaler ensuite très légèrement chaque pâton pour lui donner la forme d'un disque de 2 cm d'épaisseur, et cuire dans un tajine tunisien ou une poêle chaude \r\nanti-adhésive, 5 à 10 minutes de chaque côté.\r\n- Réserver au chaud.\r\n- Laver et couper les pommes de terre en bâtonnets. Cuire dans de l'huile très chaude jusqu'à dorure.\r\n- Saler et réserver au chaud.\r\n- Dans un petit bol, Mettre un peu de persil et d’oignon émincés. Ajouter 2 œufs battus et un peu de fromage râpé et salés, cuire l'omelette selon son goût. Réserver au chaud.\r\n- Renouveler l'opération 3 fois avec le reste des ingrédients.\r\n- Pour assembler les chapatis : ouvrir les galettes dans le sens de la longueur, tartiner de fromage fondu et d'harissa, garnir avec les omelettes, ajouter le thon, les frites, fromage râpé puis refermer les sandwichs.\r\n- Réchauffer à la poêle ou au four si nécessaire, car le chapati se mange chaud.\r\nBon appétit!\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n                                                    \r\n\r\n\r\n",
+  "time": 75,
+  "createdAt": {
+    "$date": "2024-02-01T11:44:19.055Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-03T21:38:54.518Z"
+  },
+  "__v": 0,
+  "nbrPerson": 4
+},
+{
+  "_id": {
+    "$oid": "65bb86a202c7bb29a50c3739"
+  },
+  "title": "Cake au citron",
+  "image": {
+    "src": "1709123559562-ÙÙÙ_Ø§ÙÙÙÙÙÙ.webp",
+    "alt": "ÙÙÙ Ø§ÙÙÙÙÙÙ.webp"
+  },
+  "description": "Moelleux, rafraîchissant, zestes de bonheur.",
+  "difficulty": "facile",
+  "category": "Dessert",
+  "area": "-",
+  "author": "Basma",
+  "healthy": false,
+  "ingredients": [
+    {
+      "ingName": "œuf",
+      "quantity": 2,
+      "unit": "pièce",
+      "_id": {
+        "$oid": "65bb86a202c7bb29a50c373a"
+      }
+    },
+    {
+      "ingName": "beurre",
+      "quantity": 100,
+      "unit": "gr",
+      "_id": {
+        "$oid": "65df27e7553f696058e1f15f"
+      }
+    },
+    {
+      "ingName": "levure chimique",
+      "quantity": 0.5,
+      "unit": "paquet",
+      "_id": {
+        "$oid": "65df27e7553f696058e1f160"
+      }
+    },
+    {
+      "ingName": "sucre",
+      "quantity": 200,
+      "unit": "gr",
+      "_id": {
+        "$oid": "65df27e7553f696058e1f161"
+      }
+    },
+    {
+      "ingName": "farine",
+      "quantity": 200,
+      "unit": "gr",
+      "_id": {
+        "$oid": "65df27e7553f696058e1f162"
+      }
+    },
+    {
+      "ingName": "citron",
+      "quantity": 1,
+      "unit": "pièce rappé",
+      "_id": {
+        "$oid": "65df27e7553f696058e1f163"
+      }
+    }
+  ],
+  "steps": "ÉTAPE 1\r\nSéparer les blancs de jaunes.\r\n\r\nÉTAPE 2\r\nBattre les blancs d'oeufs en neige, puis les réserver.\r\n\r\nÉTAPE 3\r\nAu bain-marie, faire fondre le beurre.\r\n\r\nÉTAPE 4\r\nRâper le citron.\r\n\r\nÉTAPE 5\r\nTravailler les jaunes avec le sucre.\r\n\r\nÉTAPE 6\r\nAjouter le citron râpé, la farine, la levure et le beurre fondu. Y incorporer délicatement les blancs en neige.\r\n\r\nÉTAPE 7\r\nEnfourner à 180°C (thermostat 6) pendant 30 à 40 min.\r\n\r\nÉTAPE 8\r\nPendant ce temps, faire le sirop à feu doux avec les 20 morceaux de sucre et le jus des 2 citrons; imprégner le cake avec ce sirop.\r\n\r\nÉTAPE 9\r\nServir froid avec de la crème anglaise, des fraises, framboises, etc. Et même nature !",
+  "time": 45,
+  "createdAt": {
+    "$date": "2024-02-01T11:55:14.712Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-28T12:32:39.566Z"
+  },
+  "__v": 0,
+  "nbrPerson": 8
+},
+{
+  "_id": {
+    "$oid": "65bfc824986573a0c99f6f8e"
+  },
+  "title": "Tajine au poulet",
+  "image": {
+    "src": "1707410322399-311298353_598070398773294_7963883095765112357_n.jpg",
+    "alt": "311298353_598070398773294_7963883095765112357_n.jpg"
+  },
+  "description": "Le tajine tunisien au poulet est un plat délicieux et parfumé qui reflète la richesse de la cuisine tunisienne",
+  "difficulty": "Moyen",
+  "category": "Entrée",
+  "area": "Nord d'Afrique",
+  "author": "Basma",
+  "healthy": false,
+  "ingredients": [
+    {
+      "ingName": "Bland de poulet",
+      "quantity": 400,
+      "unit": "gr",
+      "_id": {
+        "$oid": "65bfc824986573a0c99f6f8f"
+      }
+    },
+    {
+      "ingName": "Pomme de terre",
+      "quantity": 2,
+      "unit": "pièce",
+      "_id": {
+        "$oid": "65bfc824986573a0c99f6f90"
+      }
+    },
+    {
+      "ingName": "œuf",
+      "quantity": 6,
+      "unit": "pièce",
+      "_id": {
+        "$oid": "65bfc824986573a0c99f6f91"
+      }
+    },
+    {
+      "ingName": "Pérsil",
+      "quantity": 1,
+      "unit": "Botte",
+      "_id": {
+        "$oid": "65bfc824986573a0c99f6f92"
+      }
+    },
+    {
+      "ingName": "fromage râpé",
+      "quantity": 200,
+      "unit": "gr",
+      "_id": {
+        "$oid": "65bfc824986573a0c99f6f93"
+      }
+    },
+    {
+      "ingName": "huile",
+      "quantity": 100,
+      "unit": "ml",
+      "_id": {
+        "$oid": "65bfc824986573a0c99f6f94"
+      }
+    },
+    {
+      "ingName": "sel et poivre",
+      "quantity": 0.5,
+      "unit": "cuillère à café",
+      "_id": {
+        "$oid": "65bfc824986573a0c99f6f95"
+      }
+    }
+  ],
+  "steps": "1-Faire frire les pommes de terre, faire revenir le poulet (variante : ou la viande hachée) avec sel, poivre et coriandre dans une poêle avec un peu d'huile et 50 g de margarine.\r\n2-Dans un saladier, casser les oeufs, incorporer les pommes de terre froides et le poulet / la viande (froide), puis persil, fromage râpé, sel, poivre et mélanger le tout. Disposer dans un plat beurré. Mettre au four 15 minutes.\r\n**Préparer une petite salade pour accompagner le tout. Parmi les plats familiaux à déguster pour les fêtes, pensez aussi à la chorba, au couscous..\r\n",
+  "time": 45,
+  "createdAt": {
+    "$date": "2024-02-04T17:23:48.033Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-08T16:38:42.401Z"
+  },
+  "__v": 0,
+  "nbrPerson": 8
+},
+{
+  "_id": {
+    "$oid": "65bffaf46ca368c067bd9f27"
+  },
+  "title": "Quiche au poulet",
+  "image": {
+    "src": "1708516594026-245373500_380478330224661_5867602671495318600_n.jpg",
+    "alt": "245373500_380478330224661_5867602671495318600_n.jpg"
+  },
+  "description": "Crémeuse, savoureuse, équilibrée.",
+  "difficulty": "Facile",
+  "category": "Entrée",
+  "area": "-",
+  "author": "Basma",
+  "healthy": false,
+  "ingredients": [
+    {
+      "ingName": "Bland de poulet",
+      "quantity": 400,
+      "unit": "gr",
+      "_id": {
+        "$oid": "65c0b3ba8f527c059d86f0fa"
+      }
+    },
+    {
+      "ingName": "oeuf",
+      "quantity": 2,
+      "unit": "pièce",
+      "_id": {
+        "$oid": "65c0b3ba8f527c059d86f0fb"
+      }
+    },
+    {
+      "ingName": "Crème frèche",
+      "quantity": 4,
+      "unit": "cuillère a soupe",
+      "_id": {
+        "$oid": "65d5e4f2c9394e81fbc55937"
+      }
+    },
+    {
+      "ingName": "Persil",
+      "quantity": 1,
+      "unit": "botte",
+      "_id": {
+        "$oid": "65d5e4f2c9394e81fbc55938"
+      }
+    },
+    {
+      "ingName": "Ail",
+      "quantity": 2,
+      "unit": "gousse",
+      "_id": {
+        "$oid": "65d5e4f2c9394e81fbc55939"
+      }
+    },
+    {
+      "ingName": "Huile",
+      "quantity": 100,
+      "unit": "ml",
+      "_id": {
+        "$oid": "65d5e4f2c9394e81fbc5593a"
+      }
+    },
+    {
+      "ingName": "Sel et Poivron",
+      "quantity": 0.5,
+      "unit": "cuillère à café",
+      "_id": {
+        "$oid": "65d5e4f2c9394e81fbc5593b"
+      }
+    },
+    {
+      "ingName": "Pâte brisée",
+      "quantity": 1,
+      "unit": "paquet",
+      "_id": {
+        "$oid": "65d5e4f2c9394e81fbc5593c"
+      }
+    }
+  ],
+  "steps": "**ÉTAPE 1**\r\n\r\nMélangez la crème fraîche et les oeufs, ajoutez l’assaisonnement (sel, poivre, persil, citron, muscade).\r\n\r\n**ÉTAPE 2**\r\n\r\nCoupez finement l'échalote dans ce mélange.\r\n\r\n**ÉTAPE 3**\r\n\r\nY ajoutez les blancs de poulet émincés.\r\n\r\n**ÉTAPE 4**\r\n\r\nVersez le mélange sur la pâte brisée. On pourra parsemer de dés de chair de tomate pour décorer.\r\n\r\n**ÉTAPE 5**\r\nEnfournez à four chaud (220°C) pendant 40 mn environ.",
+  "time": 55,
+  "createdAt": {
+    "$date": "2024-02-04T21:00:36.990Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-21T11:56:34.034Z"
+  },
+  "__v": 0,
+  "nbrPerson": 6
+},
+{
+  "_id": {
+    "$oid": "65dcfa08104108fb780a726a"
+  },
+  "title": "Verrine banane, granola, fromage blanc",
+  "image": {
+    "src": "1708980744863-2168299_w944h530c1cx1061cy707cxt0cyt0cxb2121cyb1414.webp",
+    "alt": "2168299_w944h530c1cx1061cy707cxt0cyt0cxb2121cyb1414.webp"
+  },
+  "description": "Dessert express",
+  "difficulty": "facile",
+  "category": "Dessert",
+  "area": "-",
+  "nbrPerson": 2,
+  "author": "Basma",
+  "healthy": true,
+  "ingredients": [
+    {
+      "ingName": "Bannane",
+      "quantity": 1,
+      "unit": "pièce",
+      "_id": {
+        "$oid": "65dcfa08104108fb780a726b"
+      }
+    },
+    {
+      "ingName": "Granola",
+      "quantity": 4,
+      "unit": "cuillère a soupe",
+      "_id": {
+        "$oid": "65dcfa08104108fb780a726c"
+      }
+    },
+    {
+      "ingName": " Fromage blanc ou yaourt grec",
+      "quantity": 100,
+      "unit": "gr",
+      "_id": {
+        "$oid": "65dcfa08104108fb780a726d"
+      }
+    },
+    {
+      "ingName": "cacao en poudre ",
+      "quantity": 2,
+      "unit": "cac",
+      "_id": {
+        "$oid": "65dcfa08104108fb780a726e"
+      }
+    }
+  ],
+  "steps": "1*Coupez la banane en tranches\r\nDans le fond de 2 verrines, 2*déposez une généreuse cuillère à soupe de granola dans le fond.\r\n3*Ajoutez ensuite 2 cuillères à soupe de fromage blanc ou de yaourt grec.`\r\n4*Recouvrez avec une nouvelle cuillère à soupe de granola.\r\n5*Déposez les tranches de bananes\r\n6*Terminez en saupoudrant d'un peu de cacao et c'est prêt !",
+  "time": 5,
+  "createdAt": {
+    "$date": "2024-02-26T20:52:24.925Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T20:52:24.925Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65defb0f553f696058e1dfe9"
+  },
+  "title": "Bûche salée au saumon",
+  "image": {
+    "src": "1709112079955-2237522_w2000h2000c1cx1000cy667cxt0cyt0cxb2000cyb1333.jpg",
+    "alt": "2237522_w2000h2000c1cx1000cy667cxt0cyt0cxb2000cyb1333.jpg"
+  },
+  "description": " \"Vous recherchez une idée rapide pour impressionner vos invités ? Découvrez comment concocter une bûche salée au saumon en moins de 15 minutes top chrono !\"",
+  "difficulty": "Facile",
+  "category": "Entrée",
+  "area": "-",
+  "nbrPerson": 6,
+  "author": "Basma",
+  "healthy": false,
+  "ingredients": [
+    {
+      "ingName": "œuf",
+      "quantity": 5,
+      "unit": "pièce",
+      "_id": {
+        "$oid": "65defb0f553f696058e1dfea"
+      }
+    },
+    {
+      "ingName": " farine de blé",
+      "quantity": 100,
+      "unit": "gr",
+      "_id": {
+        "$oid": "65defb0f553f696058e1dfeb"
+      }
+    },
+    {
+      "ingName": "huile d'olive",
+      "quantity": 45,
+      "unit": "gr",
+      "_id": {
+        "$oid": "65defb0f553f696058e1dfec"
+      }
+    },
+    {
+      "ingName": "lait",
+      "quantity": 45,
+      "unit": "gr",
+      "_id": {
+        "$oid": "65defb0f553f696058e1dfed"
+      }
+    },
+    {
+      "ingName": "tranches de saumon",
+      "quantity": 125,
+      "unit": "gr",
+      "_id": {
+        "$oid": "65defb0f553f696058e1dfee"
+      }
+    },
+    {
+      "ingName": "citron",
+      "quantity": 1,
+      "unit": "pièce",
+      "_id": {
+        "$oid": "65defb0f553f696058e1dfef"
+      }
+    },
+    {
+      "ingName": "fromage frais nature",
+      "quantity": 200,
+      "unit": "gr",
+      "_id": {
+        "$oid": "65defb0f553f696058e1dff0"
+      }
+    },
+    {
+      "ingName": "ciboulette",
+      "quantity": 1,
+      "unit": "bouquet",
+      "_id": {
+        "$oid": "65defb0f553f696058e1dff1"
+      }
+    },
+    {
+      "ingName": "aneth fraîche",
+      "quantity": 6,
+      "unit": "branche",
+      "_id": {
+        "$oid": "65defb0f553f696058e1dff2"
+      }
+    },
+    {
+      "ingName": "poivron",
+      "quantity": 0.5,
+      "unit": "cac",
+      "_id": {
+        "$oid": "65defb0f553f696058e1dff3"
+      }
+    }
+  ],
+  "steps": "1. Commencez par préparer la génoise en séparant les blancs et les jaunes de 4 oeufs. Montez-les en neige avec une pincée de sel en utilisant un batteur électrique.\r\n2. Réservez les jaunes dans un autre saladier et cassez-y le 5 ème oeuf entier.\r\n3. Incorporez l'huile d'olive, le lait et mélangez.\r\n4. Versez ensuite la farine : vous devez obtenir une texture homogène. Avec une maryse, ajoutez les blancs en neige délicatement à la préparation précédente.\r\n5. Placez une feuille de papier cuisson sur une plaque et versez la génoise.\r\n6. Étalez-la uniformément sur 1 cm d'épaisseur puis faites cuire 15 à 20 minutes dans un four préchauffé à 160 °C. Surveillez bien la coloration et la cuisson : la génoise ne doit pas devenir cassante.\r\n7. Sortez du four et placez-la directement sur un torchon. Retirez le papier et roulez-là délicatement le temps de préparer la garniture.\r\n8. Découpez des tranches de saumon en cubes et mélangez-les avec le fromage frais, la ciboulette et l’aneth ciselée.\r\n9. Ajoutez les zestes d'un citron, poivrez et mélangez à nouveau.\r\n10. Etalez la garniture sur la génoise froide dont vous aurez parer les 4 côtés pour avoir une surface bien lisse. 11. Roulez à nouveau la bûche en serrant bien puis disposez-la sur un plat.\r\n12. Décorez avec une poche à douille, des œufs de saumon, du citron et quelques herbes fraîches.\r\n\r\nOn vous conseille de la laisser bien prendre au réfrigérateur avant de la consommer, elle n’en sera que meilleure !\r\n\r\n",
+  "time": 15,
+  "createdAt": {
+    "$date": "2024-02-28T09:21:19.975Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-28T09:21:19.975Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2171172420dfa01383f89"
+  },
+  "title": "Spaghetti aux fruits de mer",
+  "image": {
+    "src": "1709315857130-pexels-jane-doan-769969.jpg",
+    "alt": "pexels-jane-doan-769969.jpg"
+  },
+  "description": "Un délicieux mélange de pâtes longues et fines garnies d'une savoureuse sauce aux fruits de mer",
+  "difficulty": "Facile",
+  "category": "Plat",
+  "area": "Italie",
+  "nbrPerson": 4,
+  "author": "Basma",
+  "healthy": false,
+  "ingredients": [
+    {
+      "ingName": "Pâte spaghetti",
+      "quantity": 500,
+      "unit": "gr",
+      "_id": {
+        "$oid": "65e2171172420dfa01383f8a"
+      }
+    },
+    {
+      "ingName": "fruits de mer mélangés",
+      "quantity": 400,
+      "unit": "gr",
+      "_id": {
+        "$oid": "65e2171172420dfa01383f8b"
+      }
+    },
+    {
+      "ingName": "huile d'olive",
+      "quantity": 3,
+      "unit": "cas",
+      "_id": {
+        "$oid": "65e2171172420dfa01383f8c"
+      }
+    },
+    {
+      "ingName": "petit oignon, haché",
+      "quantity": 1,
+      "unit": "pièce",
+      "_id": {
+        "$oid": "65e2171172420dfa01383f8d"
+      }
+    },
+    {
+      "ingName": "tomates concassées",
+      "quantity": 400,
+      "unit": "gr",
+      "_id": {
+        "$oid": "65e2171172420dfa01383f8e"
+      }
+    },
+    {
+      "ingName": "Sel et poivre noir moulu",
+      "quantity": 0.5,
+      "unit": "cuillère",
+      "_id": {
+        "$oid": "65e2171172420dfa01383f8f"
+      }
+    },
+    {
+      "ingName": "Persil frais, haché, pour garnir",
+      "quantity": 6,
+      "unit": "pièce",
+      "_id": {
+        "$oid": "65e2171172420dfa01383f90"
+      }
+    },
+    {
+      "ingName": "ail hachées finement",
+      "quantity": 2,
+      "unit": "gousses",
+      "_id": {
+        "$oid": "65e2171172420dfa01383f91"
+      }
+    }
+  ],
+  "steps": "-Etape1-\r\nFaites cuire les spaghetti dans une grande casserole d'eau bouillante salée selon les instructions sur l'emballage jusqu'à ce qu'ils soient al dente. Égouttez-les et réservez.\r\n-Etape2-\r\nPendant ce temps, dans une grande poêle, chauffez l'huile d'olive à feu moyen. Ajoutez l'ail haché et l'oignon, et faites-les revenir jusqu'à ce qu'ils soient dorés et parfumés.\r\n-Etape3-\r\nAjoutez les fruits de mer dans la poêle et faites-les cuire pendant quelques minutes jusqu'à ce qu'ils soient presque cuits.\r\n-Etape4-\r\nAjoutez les tomates concassées dans la poêle, salez et poivrez selon votre goût, puis laissez mijoter pendant environ 10 minutes pour que les saveurs se mélangent et que la sauce épaississe légèrement.\r\n-Etape5-\r\nAjoutez les spaghetti cuits dans la poêle avec la sauce aux fruits de mer et mélangez bien pour les enrober de sauce.\r\n-Etape6-\r\nServez les spaghetti aux fruits de mer chauds, garnis de persil frais haché et de parmesan râpé si désiré.\r\n\r\nBon appétit !",
+  "time": 45,
+  "createdAt": {
+    "$date": "2024-03-01T17:57:37.180Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-01T17:57:37.180Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e3816c3ad6b01db0654c7c"
+  },
+  "title": "Cheesecake américain",
+  "image": {
+    "src": "1709502130205-401027492_888813783032286_6840792007178189306_n.jpg",
+    "alt": "401027492_888813783032286_6840792007178189306_n.jpg"
+  },
+  "description": "Dessert emblématique, composé d'un mélange crémeux de fromage à la crème sur une base de biscuit émietté, sucré et parfois beurré.",
+  "difficulty": "Moyen",
+  "category": "Dessert",
+  "area": "-",
+  "nbrPerson": 8,
+  "author": "Basma",
+  "healthy": false,
+  "ingredients": [
+    {
+      "ingName": "Biscuit lotus",
+      "quantity": 200,
+      "unit": "gr",
+      "_id": {
+        "$oid": "65e3816c3ad6b01db0654c7d"
+      }
+    },
+    {
+      "ingName": "beurre",
+      "quantity": 100,
+      "unit": "gr",
+      "_id": {
+        "$oid": "65e3816c3ad6b01db0654c7e"
+      }
+    },
+    {
+      "ingName": "fromage à la crème (type Philadelphia)",
+      "quantity": 600,
+      "unit": "gr",
+      "_id": {
+        "$oid": "65e3816c3ad6b01db0654c7f"
+      }
+    },
+    {
+      "ingName": " crème épaisse",
+      "quantity": 250,
+      "unit": "ml",
+      "_id": {
+        "$oid": "65e3816c3ad6b01db0654c80"
+      }
+    },
+    {
+      "ingName": "œuf",
+      "quantity": 3,
+      "unit": "pièce",
+      "_id": {
+        "$oid": "65e3816c3ad6b01db0654c81"
+      }
+    },
+    {
+      "ingName": "citron+zeste",
+      "quantity": 1,
+      "unit": "cas",
+      "_id": {
+        "$oid": "65e3816c3ad6b01db0654c82"
+      }
+    },
+    {
+      "ingName": "extrait de vanille",
+      "quantity": 1,
+      "unit": "cac",
+      "_id": {
+        "$oid": "65e3816c3ad6b01db0654c83"
+      }
+    },
+    {
+      "ingName": "sucre",
+      "quantity": 200,
+      "unit": "gr",
+      "_id": {
+        "$oid": "65e3816c3ad6b01db0654c84"
+      }
+    }
+  ],
+  "steps": "ÉTAPE 1\r\n1) Préchauffer le four à 205 degrés.\r\n\r\nÉTAPE 2\r\n2) Mélanger les biscuits écrasés, le beurre fondu et 50 g de sucre.\r\n\r\nÉTAPE 3\r\nGarnir uniformément le fond d'un moule amovible avec le mélange obtenu. Mettre au réfrigérateur.\r\nPréparez la garniture :\r\nÉTAPE 4\r\nDans un grand bol, battez le fromage à la crème et le sucre jusqu'à obtenir un mélange lisse et crémeux.\r\nAjoutez les œufs un par un, en battant bien après chaque ajout.\r\nIncorporez l'extrait de vanille, le zeste de citron (si utilisé) et la crème épaisse. Mélangez jusqu'à obtenir une texture homogène.\r\nÉTAPE 5\r\nVerser le mélange sur le fond de tarte préparé.\r\nÉTAPE 6\r\npréparez un bain-marie en plaçant le moule contenant le cheesecake dans une grande plaque de cuisson remplie d'eau chaude. Assurez-vous que l'eau atteint environ la moitié de la hauteur du moule à cheesecake.\r\nÉTAPE 7\r\nbouger légèrement lorsque vous secouez le moule...)\r\nÉTAPE 8\r\nEteindre le four et laisser le cheesecake refroidir à l’intérieur avec la porte du four ouverte.\r\nÉTAPE 9\r\nMettre au frais pendant au moins 6 heures, démouler et servir avec un coulis de fraise.\r\n\r\n\r\n",
+  "time": 90,
+  "createdAt": {
+    "$date": "2024-03-02T19:43:40.303Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-03T21:42:10.209Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e49dfb7f85528b28748897"
+  },
+  "title": "Gratin choux fleur",
+  "image": {
+    "src": "1709496336174-Cauliflower-Gratin-1024x683-1.jpg",
+    "alt": "Cauliflower-Gratin-1024x683-1.jpg"
+  },
+  "description": "Le gratin de chou-fleur est un choix idéal pour ceux qui suivent un régime faible en glucides",
+  "difficulty": "Facile",
+  "category": "Plat",
+  "area": "-",
+  "nbrPerson": 4,
+  "author": "Basma",
+  "healthy": true,
+  "ingredients": [
+    {
+      "ingName": "chou-fleur",
+      "quantity": 1,
+      "unit": "pièces",
+      "_id": {
+        "$oid": "65e49dfb7f85528b28748898"
+      }
+    },
+    {
+      "ingName": "crème liquide ",
+      "quantity": 5,
+      "unit": "cl",
+      "_id": {
+        "$oid": "65e49dfb7f85528b28748899"
+      }
+    },
+    {
+      "ingName": "beurre",
+      "quantity": 25,
+      "unit": "gr",
+      "_id": {
+        "$oid": "65e49dfb7f85528b2874889a"
+      }
+    },
+    {
+      "ingName": "fromage râpé",
+      "quantity": 50,
+      "unit": "gr",
+      "_id": {
+        "$oid": "65e49dfb7f85528b2874889b"
+      }
+    },
+    {
+      "ingName": "Poivre noir",
+      "quantity": 0.25,
+      "unit": "cac",
+      "_id": {
+        "$oid": "65e49dfb7f85528b2874889c"
+      }
+    },
+    {
+      "ingName": "sel",
+      "quantity": 0.5,
+      "unit": "cac",
+      "_id": {
+        "$oid": "65e49dfb7f85528b2874889d"
+      }
+    },
+    {
+      "ingName": "farine d'amande",
+      "quantity": 2,
+      "unit": "cuillère a soupe",
+      "_id": {
+        "$oid": "65e49dfb7f85528b2874889e"
+      }
+    },
+    {
+      "ingName": "Lait d'amande",
+      "quantity": 1,
+      "unit": "tasse",
+      "_id": {
+        "$oid": "65e49dfb7f85528b2874889f"
+      }
+    }
+  ],
+  "steps": "ÉTAPE 1\r\n\r\nNettoyer le chou-fleur et le couper en bouquets.\r\n\r\nÉTAPE 2\r\n\r\nLes disposer dans le panier vapeur de la cocotte-minute et cuire à la vapeur environ 8 min après le sifflement de la soupape. Vérifier la cuisson en piquant la pointe d'un couteau dans un des bouquets (ça doit être tendre mais pas mou).\r\n\r\nÉTAPE 3\r\n\r\nPréparer une sauce blanche :Faire fondre le beurre dans une casserole puis ajouter la farine d'amande. Verser peu à peu le lait d'amande chaud, comme pour une béchamel. Selon les goûts ajouter (ou non) un peu de crème. Saler, poivrer et ajouter une pointe de muscade.\r\n\r\nÉTAPE 4\r\nPréchauffer le four à 200°C (thermostat 6-7).\r\n\r\nÉTAPE 5\r\nBeurrer un plat à gratin et recouvrir le fond de sauce. Disposer dessus les bouquets têtes en bas (sinon la sauce ne s'y imprègne pas). Recouvrir du reste de sauce.\r\n\r\nÉTAPE 6\r\n\r\nParsemer de fromage râpé (de préférence du comté qui à un goût plus prononcé).\r\n\r\nÉTAPE 7\r\nEnfourner pour environ 30 min.",
+  "time": 45,
+  "createdAt": {
+    "$date": "2024-03-03T15:57:47.766Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-03T20:05:36.181Z"
+  },
+  "__v": 0
+}]
